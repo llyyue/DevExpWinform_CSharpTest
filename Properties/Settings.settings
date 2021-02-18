@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DevExpWinform_CSharpTest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CsvFile_Stocks" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\DataFile\stocks_testdata.csv</Value>
+    </Setting>
+    <Setting Name="CsvFile_Options" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\DataFile\options_testddata.csv</Value>
+    </Setting>
+    <Setting Name="WinState" Type="System.Windows.Forms.FormWindowState" Scope="User">
+      <Value Profile="(Default)">Maximized</Value>
+    </Setting>
+    <Setting Name="WinDeskBounds" Type="System.Drawing.Rectangle" Scope="User">
+      <Value Profile="(Default)">50, 50, 600, 600</Value>
+    </Setting>
+    <Setting Name="Layout_Stocks" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\Layout\stocks_layout.xml</Value>
+    </Setting>
+    <Setting Name="Layout_Options" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\Layout\options_layout.xml</Value>
+    </Setting>
+    <Setting Name="Active_Grid_Index" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
